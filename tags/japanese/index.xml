@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>japanese on Hugo tranquilpeak theme</title>
-    <link>https://example.org/tags/japanese/</link>
+    <link>https://ericlight0025.github.io/tags/japanese/</link>
     <description>Recent content in japanese on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ericlight0025.github.io/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日本語テスト</title>
-      <link>https://example.org/2022/08/japanese-test/</link>
+      <link>https://ericlight0025.github.io/2022/08/japanese-test/</link>
       <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2022/08/japanese-test/</guid>
+      <guid>https://ericlight0025.github.io/2022/08/japanese-test/</guid>
       <description>&lt;p&gt;一支貓每天的生活記事.&lt;/p&gt;</description>
     </item>
     
