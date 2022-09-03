@@ -25,23 +25,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>releases</title>
-      <link>https://ericlight0025.github.io/categories/releases/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericlight0025.github.io/categories/releases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>showcase</title>
-      <link>https://ericlight0025.github.io/categories/showcase/</link>
-      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://ericlight0025.github.io/categories/showcase/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
